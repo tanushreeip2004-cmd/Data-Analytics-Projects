@@ -14,7 +14,7 @@ This repository showcases my end-to-end projects across **Python, SQL, and Power
 - Provided business recommendations to improve customer retention.
 - **Skills demonstrated:** EDA, data visualization, feature analysis, business strategy.
 
-# 3. 🛒 E-Commerce Analytics | SQL & Power BI
+# 3. 🛒 E-Commerce Analytics | SQL & Power BI  
 - Built an **end-to-end SQL database** for an e-commerce system (Products, Users, Orders, Reviews).
 - Wrote advanced **SQL queries** to analyze sales, top products, top customers, ratings, and monthly trends.
 - Connected SQL data to **Power BI**, applied **DAX calculations**, and created an interactive dashboard for business KPIs.
